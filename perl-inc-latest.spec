@@ -8,7 +8,7 @@ Summary:	inc::latest - use modules bundled in inc/ if they are newer than instal
 Summary(pl.UTF-8):	inc-latest - użycie modułów dołączonych w inc/ jeśli są nowsze od zainstalowanych
 Name:		perl-inc-latest
 Version:	0.500
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/D/DA/DAGOLDEN/%{pdir}-%{pnam}-%{version}.tar.gz
